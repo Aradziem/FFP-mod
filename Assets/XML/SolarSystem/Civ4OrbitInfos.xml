@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Edited using Visual Studio-->
+<!--Looks like no changes should be made in this file-->
+<Civ4OrbitInfos xmlns="x-schema:CIV4SolarSystemSchema.xml">
+	<OrbitInfos>
+		<OrbitInfo>
+			<Type>ORBIT_1</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_1</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_1</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_1</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_2</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_2</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_2</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_2</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_3</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_3</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_3</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_3</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_4</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_4</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_4</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_4</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_5</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_5</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_5</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_5</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_6</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_6</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_6</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_6</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_7</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_7</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_7</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_7</BuildingArtTag>
+		</OrbitInfo>
+		<OrbitInfo>
+			<Type>ORBIT_8</Type>
+			<OrbitArtTag>FEATURE_DUMMY_TAG_ORBIT_8</OrbitArtTag>
+			<PlanetArtTag>FEATURE_DUMMY_TAG_PLANET_8</PlanetArtTag>
+			<BuildingArtTag>FEATURE_DUMMY_TAG_BUILDING_8</BuildingArtTag>
+		</OrbitInfo>
+	</OrbitInfos>
+</Civ4OrbitInfos>

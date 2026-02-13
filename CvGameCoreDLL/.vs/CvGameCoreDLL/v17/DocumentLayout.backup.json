@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCityAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvCityAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCityAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvCityAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvCity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvCity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvSolarSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvSolarSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvSolarSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvSolarSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvPlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29299FB8-F6C4-4054-A054-470F4E36D57B}|CvGameCoreDLL.vcxproj|solutionrelative:CvPlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CvCity.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCity.cpp",
+              "RelativeDocumentMoniker": "CvCity.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCity.cpp",
+              "RelativeToolTip": "CvCity.cpp",
+              "ViewState": "AgIAAKkgAAAAAAAAAADwv7QgAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T13:07:38.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CvCity.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCity.h",
+              "RelativeDocumentMoniker": "CvCity.h",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCity.h",
+              "RelativeToolTip": "CvCity.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T13:07:29.347Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CvCityAI.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCityAI.cpp",
+              "RelativeDocumentMoniker": "CvCityAI.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCityAI.cpp",
+              "RelativeToolTip": "CvCityAI.cpp",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAjwIcBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T11:53:28.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CvCityAI.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCityAI.h",
+              "RelativeDocumentMoniker": "CvCityAI.h",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvCityAI.h",
+              "RelativeToolTip": "CvCityAI.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T19:27:20.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CvMap.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvMap.cpp",
+              "RelativeDocumentMoniker": "CvMap.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvMap.cpp",
+              "RelativeToolTip": "CvMap.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T07:02:34.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CvPlot.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvPlot.cpp",
+              "RelativeDocumentMoniker": "CvPlot.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvPlot.cpp",
+              "RelativeToolTip": "CvPlot.cpp",
+              "ViewState": "AgIAAAwaAAAAAAAAAAAwwB8aAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T16:46:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CvSolarSystem.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvSolarSystem.h",
+              "RelativeDocumentMoniker": "CvSolarSystem.h",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvSolarSystem.h",
+              "RelativeToolTip": "CvSolarSystem.h",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-05T13:10:37.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CvMap.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvMap.h",
+              "RelativeDocumentMoniker": "CvMap.h",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvMap.h",
+              "RelativeToolTip": "CvMap.h",
+              "ViewState": "AgIAAGABAAAAAAAAAAAAwHMBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T10:36:04.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CvSolarSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvSolarSystem.cpp",
+              "RelativeDocumentMoniker": "CvSolarSystem.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\adam\\civ\\Sid Meier\u0027s Civilization IV Complete\\Beyond the Sword\\Mods\\Final Frontier Plus wip\\CvGameCoreDLL\\CvSolarSystem.cpp",
+              "RelativeToolTip": "CvSolarSystem.cpp",
+              "ViewState": "AgIAAG4DAAAAAAAAAAAwwHkDAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T11:45:30.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

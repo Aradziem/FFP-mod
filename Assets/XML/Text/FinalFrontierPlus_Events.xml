@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Created with Notepad -->
+<!-- Not the best tool, but works -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_SAMPLE</Tag>
+		<English>Sample</English>
+		<French>Sample</French>
+		<German>Sample</German>
+		<Italian>Sample</Italian>
+		<Spanish>Sample</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_UNIVERSAL_RECYCLER_FAILURE</Tag>
+		<English>One of Universal Recyclers has caused a black hole to appear.</English>
+		<French>One of Universal Recyclers has caused a black hole to appear.</French>
+		<German>One of Universal Recyclers has caused a black hole to appear.</German>
+		<Italian>One of Universal Recyclers has caused a black hole to appear.</Italian>
+		<Spanish>One of Universal Recyclers has caused a black hole to appear.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_TRIGGER_UNIVERSAL_RECYCLER_FAILURE_1</Tag>
+		<English>One of our Universal Recyclers has caused a black hole to appear. We have to do something or our system may turn into a black hole!</English>
+		<French>One of our Universal Recyclers has caused a black hole to appear. We have to do something or our system may turn into a black hole!</French>
+		<German>One of our Universal Recyclers has caused a black hole to appear. We have to do something or our system may turn into a black hole!</German>
+		<Italian>One of our Universal Recyclers has caused a black hole to appear. We have to do something or our system may turn into a black hole!</Italian>
+		<Spanish>One of our Universal Recyclers has caused a black hole to appear. We have to do something or our system may turn into a black hole!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_RADIATION_SPREAD</Tag>
+		<English>Routing agencies discourage traveling near the %s1_civ_adjective city of %s2_city due to increased radiation levels.</English>
+		<French>Routing agencies discourage traveling near the %s1_civ_adjective city of %s2_city due to increased radiation levels.</French>
+		<German>Routing agencies discourage traveling near the %s1_civ_adjective city of %s2_city due to increased radiation levels.</German>
+		<Italian>Routing agencies discourage traveling near the %s1_civ_adjective city of %s2_city due to increased radiation levels.</Italian>
+		<Spanish>Routing agencies discourage traveling near the %s1_civ_adjective city of %s2_city due to increased radiation levels.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_RADIATION_SPREAD_1</Tag>
+		<English>Our scientists have detected that radiation levels near the city of %s2_city have increased.</English>
+		<French>Our scientists have detected that radiation levels near the city of %s2_city have increased.</French>
+		<German>Our scientists have detected that radiation levels near the city of %s2_city have increased.</German>
+		<Italian>Our scientists have detected that radiation levels near the city of %s2_city have increased.</Italian>
+		<Spanish>Our scientists have detected that radiation levels near the city of %s2_city have increased.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_RADIATION_SPREAD</Tag>
+		<English>Hope no one gets trapped in it.</English>
+		<French>Hope no one gets trapped in it.</French>
+		<German>Hope no one gets trapped in it.</German>
+		<Italian>Hope no one gets trapped in it.</Italian>
+		<Spanish>Hope no one gets trapped in it.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_RADIATION_REMOVE</Tag>
+		<English>Travel agent's offices advertise traveling to a new volume of space with low radiation near the  %s1_civ_adjective city of %s2_city.</English>
+		<French>Travel agent's offices advertise traveling to a new volume of space with low radiation near the  %s1_civ_adjective city of %s2_city.</French>
+		<German>Travel agent's offices advertise traveling to a new volume of space with low radiation near the  %s1_civ_adjective city of %s2_city.</German>
+		<Italian>Travel agent's offices advertise traveling to a new volume of space with low radiation near the  %s1_civ_adjective city of %s2_city.</Italian>
+		<Spanish>Travel agent's offices advertise traveling to a new volume of space with low radiation near the  %s1_civ_adjective city of %s2_city.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_RADIATION_REMOVE_1</Tag>
+		<English>Radiation levels near the city of %s2_city have decreased significantly.</English>
+		<French>Radiation levels near the city of %s2_city have decreased significantly.</French>
+		<German>Radiation levels near the city of %s2_city have decreased significantly.</German>
+		<Italian>Radiation levels near the city of %s2_city have decreased significantly.</Italian>
+		<Spanish>Radiation levels near the city of %s2_city have decreased significantly.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_RADIATION_REMOVE</Tag>
+		<English>Now space here is a safer place.</English>
+		<French>Now space here is a safer place.</French>
+		<German>Now space here is a safer place.</German>
+		<Italian>Now space here is a safer place.</Italian>
+		<Spanish>Now space here is a safer place.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_GEOMAGNETIC_STORM</Tag>
+		<English>Geomagnetic storm paralyses the  %s1_civ_adjective star system of %s2_city.</English>
+		<French>Geomagnetic storm paralyses the  %s1_civ_adjective star system of %s2_city.</French>
+		<German>Geomagnetic storm paralyses the  %s1_civ_adjective star system of %s2_city.</German>
+		<Italian>Geomagnetic storm paralyses the  %s1_civ_adjective star system of %s2_city.</Italian>
+		<Spanish>Geomagnetic storm paralyses the  %s1_civ_adjective star system of %s2_city.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENTTRIGGER_GEOMAGNETIC_STORM_1</Tag>
+		<English>Radiation levels in the solar system of %s2_city have have significantly, paralysing all unshielded traffic and destroying unshielded electronics.</English>
+		<French>Radiation levels in the solar system of %s2_city have have significantly, paralysing all unshielded traffic and destroying unshielded electronics.</French>
+		<German>Radiation levels in the solar system of %s2_city have have significantly, paralysing all unshielded traffic and destroying unshielded electronics.</German>
+		<Italian>Radiation levels in the solar system of %s2_city have have significantly, paralysing all unshielded traffic and destroying unshielded electronics.</Italian>
+		<Spanish>Radiation levels in the solar system of %s2_city have have significantly, paralysing all unshielded traffic and destroying unshielded electronics.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_GEOMAGNETIC_STORM_1</Tag>
+		<English>We can't do anything about this. Advise turning on all available shields.</English>
+		<French>We can't do anything about this. Advise turning on all available shields.</French>
+		<German>We can't do anything about this. Advise turning on all available shields.</German>
+		<Italian>We can't do anything about this. Advise turning on all available shields.</Italian>
+		<Spanish>We can't do anything about this. Advise turning on all available shields.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_GEOMAGNETIC_STORM_2</Tag>
+		<English>Send in some ships to help the system.</English>
+		<French>Send in some ships to help the system.</French>
+		<German>Send in some ships to help the system.</German>
+		<Italian>Send in some ships to help the system.</Italian>
+		<Spanish>Send in some ships to help the system.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_GEOMAGNETIC_STORM_3</Tag>
+		<English>Try shielding only necessary ships and electronical devices, we can't protect everyone.</English>
+		<French>Try shielding only necessary ships and electronical devices, we can't protect everyone.</French>
+		<German>Try shielding only necessary ships and electronical devices, we can't protect everyone.</German>
+		<Italian>Try shielding only necessary ships and electronical devices, we can't protect everyone.</Italian>
+		<Spanish>Try shielding only necessary ships and electronical devices, we can't protect everyone.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_GEOMAGNETIC_STORM_4</Tag>
+		<English>Now space here is a safer place.</English>
+		<French>Now space here is a safer place.</French>
+		<German>Now space here is a safer place.</German>
+		<Italian>Now space here is a safer place.</Italian>
+		<Spanish>Now space here is a safer place.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FFP_EVENT_GEOMAGNETIC_STORM_5</Tag>
+		<English>Fund mass production and deployment of shields so as to protect everything that needs protection.</English>
+		<French>Fund mass production and deployment of shields so as to protect everything that needs protection.</French>
+		<German>Fund mass production and deployment of shields so as to protect everything that needs protection.</German>
+		<Italian>Fund mass production and deployment of shields so as to protect everything that needs protection.</Italian>
+		<Spanish>Fund mass production and deployment of shields so as to protect everything that needs protection.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,124 @@
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="Civilopedia" content="textOnly"/>
+	<ElementType name="Type" content="textOnly"/>
+	<ElementType name="Description" content="textOnly"/>
+	<ElementType name="ArtDefineTag" content="textOnly"/>
+	
+	<ElementType name="Civ4PlanetInfos" content="eltOnly">
+		<element type="PlanetInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetInfos" content="eltOnly">
+		<element type="PlanetInfo" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iYield" content="textOnly" dt:type="int"/>
+	<ElementType name="Yields" content="eltOnly">
+		<element type="iYield" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="FeatureType" content="textOnly"/>
+	<ElementType name="PlanetFeatures" content="eltOnly">
+		<element type="FeatureType" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Name"/>
+		<element type="Description"/>
+		<element type="Civilopedia"/>
+		<element type="ArtDefineTag"/>
+		<element type="Class"/>
+		<element type="bGasGiant"/>
+		<element type="MinSize"/>
+		<element type="MaxSize"/>
+		<element type="Yields" minOccurs="0"/>
+		<element type="iHealthPerPop"/>
+		<element type="iHappinessPerPop"/>
+		<element type="PlanetFeatures"/>
+	</ElementType>
+	<ElementType name="iHealthPerPop" content="textOnly" dt:type="int"/>
+	<ElementType name="iHappinessPerPop" content="textOnly" dt:type="int"/>
+	<ElementType name="bGasGiant" content="textOnly" dt:type="boolean"/>
+	<ElementType name="MinSize" content="textOnly"/>
+	<ElementType name="MaxSize" content="textOnly"/>
+	<ElementType name="Class" content="textOnly"/>
+	<ElementType name="Name" content="textOnly"/>
+	<ElementType name="Civ4PlanetClassInfos" content="eltOnly">
+		<element type="PlanetClassInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetClassInfos" content="eltOnly">
+		<element type="PlanetClassInfo" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetClassInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Type"/>
+	</ElementType>
+	<ElementType name="Civ4PlanetSizeInfos" content="eltOnly">
+		<element type="PlanetSizeInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetSizeInfos" content="eltOnly">
+		<element type="PlanetSizeInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="iPopulation"  content="textOnly" dt:type="int"/>
+	<ElementType name="PlanetSizeModel" content="textOnly"/>
+	<ElementType name="ArtTag" content="textOnly"/>
+	<ElementType name="ArtTagType" content="textOnly"/>
+	<ElementType name="PlanetSizeArtTags" content="eltOnly">
+		<element type="PlanetSizeArtTag" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetSizeArtTag" content="eltOnly">
+		<element type="ArtTagType"/>
+		<element type="ArtTag"/>
+	</ElementType>
+	<ElementType name="PlanetSizePopulationArtTags" content="eltOnly">
+		<element type="PlanetSizePopulationArtTag" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetSizePopulationArtTag" content="eltOnly">
+		<element type="iPopulation"/>
+		<element type="ArtTag"/>
+	</ElementType>
+	<ElementType name="PlanetSizeInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Name"/>
+		<element type="Description"/>
+		<element type="Civilopedia"/>
+		<element type="iPopulation"/>
+		<element type="PlanetSizeModel"/>
+		<element type="PlanetSizeArtTags" />
+		<element type="PlanetSizePopulationArtTags" />
+	</ElementType>
+	<ElementType name="Civ4StarInfos" content="eltOnly">
+		<element type="StarInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="StarInfos" content="eltOnly">
+		<element type="StarInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="StarInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="Name"/>
+		<element type="Description"/>
+		<element type="Civilopedia"/>
+		<element type="ArtTag"/>
+	</ElementType>
+	<ElementType name="Civ4OrbitInfos" content="eltOnly">
+		<element type="OrbitInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="OrbitInfos" content="eltOnly">
+		<element type="OrbitInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="OrbitArtTag" content="textOnly"/>
+	<ElementType name="PlanetArtTag" content="textOnly"/>
+	<ElementType name="BuildingArtTag" content="textOnly"/>
+	<ElementType name="OrbitInfo" content="eltOnly">
+		<element type="Type"/>
+		<element type="OrbitArtTag"/>
+		<element type="PlanetArtTag"/>
+		<element type="BuildingArtTag"/>
+	</ElementType>
+	<ElementType name="Civ4PlanetSizeArtTagTypeInfos" content="eltOnly">
+		<element type="PlanetSizeArtTagTypeInfos" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetSizeArtTagTypeInfos" content="eltOnly">
+		<element type="PlanetSizeArtTagTypeInfo" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+	<ElementType name="PlanetSizeArtTagTypeInfo" content="eltOnly">
+		<element type="Type"/>
+	</ElementType>
+</Schema>

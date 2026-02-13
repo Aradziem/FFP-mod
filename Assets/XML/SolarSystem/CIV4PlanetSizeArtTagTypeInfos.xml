@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Edited using Visual Studio-->
+<Civ4PlanetSizeArtTagTypeInfos xmlns="x-schema:CIV4SolarSystemSchema.xml">
+	<PlanetSizeArtTagTypeInfos>
+		<PlanetSizeArtTagTypeInfo>
+			<Type>ART_TAG_TYPE_GLOW</Type>
+		</PlanetSizeArtTagTypeInfo>
+		<PlanetSizeArtTagTypeInfo>
+			<Type>ART_TAG_TYPE_CLOUDS</Type>
+		</PlanetSizeArtTagTypeInfo>
+		<PlanetSizeArtTagTypeInfo>
+			<Type>ART_TAG_TYPE_RINGS</Type>
+		</PlanetSizeArtTagTypeInfo>
+		<PlanetSizeArtTagTypeInfo>
+			<Type>ART_TAG_TYPE_MOON</Type>
+		</PlanetSizeArtTagTypeInfo>
+		<PlanetSizeArtTagTypeInfo>
+			<Type>ART_TAG_TYPE_SELECTION</Type>
+		</PlanetSizeArtTagTypeInfo>
+	</PlanetSizeArtTagTypeInfos>
+</Civ4PlanetSizeArtTagTypeInfos>

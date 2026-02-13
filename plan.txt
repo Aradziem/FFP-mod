@@ -1,0 +1,2 @@
+1-XML-transfer planet i takichtam
+2-SI - do dll, systemy - obsługa w dll

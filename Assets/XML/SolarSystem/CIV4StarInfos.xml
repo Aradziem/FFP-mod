@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Edited using Visual Studio-->
+<Civ4StarInfos xmlns="x-schema:CIV4SolarSystemSchema.xml">
+	<StarInfos>
+		<StarInfo>
+			<Type>YELLOW_STAR</Type>
+			<Name>TXT_KEY_NONE_YET</Name>
+			<Description>TXT_KEY_NONE_YET</Description>
+			<Civilopedia>TXT_KEY_NONE_YET</Civilopedia>
+			<ArtTag>FEATURE_MODEL_TAG_SUN_YELLOW</ArtTag>
+		</StarInfo>
+		<StarInfo>
+			<Type>ORANGE_STAR</Type>
+			<Name>TXT_KEY_NONE_YET</Name>
+			<Description>TXT_KEY_NONE_YET</Description>
+			<Civilopedia>TXT_KEY_NONE_YET</Civilopedia>
+			<ArtTag>FEATURE_MODEL_TAG_SUN_ORANGE</ArtTag>
+		</StarInfo>
+		<StarInfo>
+			<Type>WHITE_STAR</Type>
+			<Name>TXT_KEY_NONE_YET</Name>
+			<Description>TXT_KEY_NONE_YET</Description>
+			<Civilopedia>TXT_KEY_NONE_YET</Civilopedia>
+			<ArtTag>FEATURE_MODEL_TAG_SUN_WHITE</ArtTag>
+		</StarInfo>
+		<StarInfo>
+			<Type>RED_STAR</Type>
+			<Name>TXT_KEY_NONE_YET</Name>
+			<Description>TXT_KEY_NONE_YET</Description>
+			<Civilopedia>TXT_KEY_NONE_YET</Civilopedia>
+			<ArtTag>FEATURE_MODEL_TAG_SUN_RED</ArtTag>
+		</StarInfo>
+		<StarInfo>
+			<Type>BLUE_STAR</Type>
+			<Name>TXT_KEY_NONE_YET</Name>
+			<Description>TXT_KEY_NONE_YET</Description>
+			<Civilopedia>TXT_KEY_NONE_YET</Civilopedia>
+			<ArtTag>FEATURE_MODEL_TAG_SUN_BLUE</ArtTag>
+		</StarInfo>
+	</StarInfos>
+</Civ4StarInfos>
