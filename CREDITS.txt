@@ -26,7 +26,8 @@ Contributors (Code, Art, or Otherwise):
 -denev (Multiple Production modcomp)
 -DarkLunaPhantom (patch to enable PitBoss + BUG to work)
 -sailbotlieh (Miranda Lawson leaderhead used for Catherine Shapiro)
--Aradziem (small XML and DLL changes)
+-Aradziem (XML and DLL changes)
+-Planetmaker (see his own version, this one was meant to be eventually merged)
 
 Help and Suggestions:
 -davidlallen, Afforess, phungus420 (DLL help)
